@@ -27,3 +27,5 @@ python.exe -m pip install --upgrade pip
 
 4) Edit the config.json file according to your server's specifications (IMPORTANT!).
 last 5) While inside bot.py, press F5 and then run it.
+
+If you need help: https://discord.gg/A5HTweqF
